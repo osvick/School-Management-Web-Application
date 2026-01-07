@@ -64,16 +64,16 @@ If you would like to explore the dashboards, temporary demo access can be provid
 Screenshots of the dashboards and user interfaces are included in the repository.
 
 ### Admin Dashboard
-![Admin Dashboard](./screenshots/Admin%20Dasboard.png)
+![Admin Dashboard](./Screenshots//Admin%20Dasboard.png)
 
 ### Teacher Dashboard
-![Teacher Dashboard](./screenshots/Teacher%20Dashboard.png)
+![Teacher Dashboard](./Screenshots//Teacher%20Dashboard.png)
 
 ### Student Dashboard
-![Student Dashboard](./screenshots/Student%20Dashboard.png)
+![Student Dashboard](./Screenshots/Student%20Dashboard.png)
 
 ### Parent Dashboard
-![Parent Dashboard](./screenshots/Parent%20Dashboad.png)
+![Parent Dashboard](./Screenshots/Parent%20Dashboad.png)
 
 
 ## 📂 Project Purpose
